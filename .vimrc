@@ -4,6 +4,8 @@ set undofile
 set showcmd
 
 
+set encoding=utf-8
+
 " Set off the other paren
 highlight MatchParen ctermbg=4
 " }}}
