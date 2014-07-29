@@ -3,8 +3,8 @@ set undofile
 " This shows what you are typing as a command.  I love this!
 set showcmd
 
-
-set encoding=utf-8
+" to be able to write french
+set encoding=iso-8859-1
 
 " Set off the other paren
 highlight MatchParen ctermbg=4
